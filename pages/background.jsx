@@ -5,7 +5,6 @@ import BannerLayout from "../components/Common/BannerLayout";
 import Footer from "../components/Footer";
 import { useQuery } from "react-query";
 import axios from "axios";
-import { Skeleton } from "antd";
 import ParagraphSkeleton from "../components/Common/ParagraphSkeleton";
 
 function Background() {

@@ -1,4 +1,4 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Abdul Muneeb Swati';
 
 export const DESIGNATION = `MERN Stack Developer`;
 
@@ -56,7 +56,7 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/Abdulmuneebswati',
-  LINKEDIN: 'www.linkedin.com/in/abdul-muneeb-swati-b803261b1',
+  LINKEDIN: 'https://www.linkedin.com/in/abdul-muneeb-swati-b803261b1',
   TWITTER: '',
   FACEBOOK: 'https://www.facebook.com/profile.php?id=100010656728566',
 };
