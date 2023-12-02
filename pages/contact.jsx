@@ -60,7 +60,7 @@ const Contact = () => {
             </a>
             <a
               className='hover:scale-125 ease-in-out duration-700'
-              href='https://github.com/osamajavaid'
+              href='https://github.com/Abdulmuneebswati'
               target='_blank'
               rel='noreferrer'
             >
@@ -68,27 +68,11 @@ const Contact = () => {
             </a>
             <a
               className='hover:scale-125 ease-in-out duration-700'
-              href='https://www.linkedin.com/in/iosamajavaid/'
+              href='https://www.linkedin.com/in/abdul-muneeb-swati-b803261b1/'
               target='_blank'
               rel='noreferrer'
             >
               <FaLinkedin />
-            </a>
-            <a
-              className='hover:scale-125 ease-in-out duration-700'
-              href='https://x.com/iosamajavaid'
-              target='_blank'
-              rel='noreferrer'
-            >
-              <FaTwitter />
-            </a>
-            <a
-              className='hover:scale-125 ease-in-out duration-700 hidden sm:block'
-              href='https://www.fiverr.com/codeworthy'
-              target='_blank'
-              rel='noreferrer'
-            >
-              <Fiverr_Icon />
             </a>
             <a
               className='hover:scale-125 ease-in-out duration-700 text-2xl sm:text-4xl mt-1'
@@ -179,7 +163,6 @@ const Contact = () => {
         >
           <div className='flex flex-col items-center justify-center'>
             <h1 className='text-Green font-bold text-2xl'>In Progress</h1>
-            
           </div>
         </Modal>
         <Footer />
