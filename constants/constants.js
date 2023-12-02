@@ -1,33 +1,26 @@
 export const NAME = 'Muhammad Osama Javaid';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `MERN Stack Developer`;
 
 export const DETAILS = {
   Residence: 'Pakistan',
-  City: 'Peshawar',
+  City: 'Mansehra',
   Age: '23',
 };
 
 export const SKILLS = [
   {
     title: 'MERN Stack Developer',
-    level: '75%',
+    level: '90%',
   },
   {
     title: 'React Developer',
-    level: '91%',
+    level: '90%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
+  
   {
     title: 'Backend Developer',
-    level: '54%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
+    level: '90%',
   },
 ];
 
@@ -40,6 +33,7 @@ export const TECH_STACK = [
   'Redux',
   'Zustand',
   'CSS',
+  "Bootstrap",
   'SCSS',
   'TailwindCSS',
   'Ant Design',
@@ -48,6 +42,7 @@ export const TECH_STACK = [
   'REST API',
   'MongoDB',
   'MySQL',
+  'Firebase',
   'Git',
   'GitHub',
   'Jira',
@@ -56,12 +51,12 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'muneebswati00@gmail.com',
+  PHONE: '+923180802727',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/Abdulmuneebswati',
+  LINKEDIN: 'www.linkedin.com/in/abdul-muneeb-swati-b803261b1',
+  TWITTER: '',
+  FACEBOOK: 'https://www.facebook.com/profile.php?id=100010656728566',
 };

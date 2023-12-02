@@ -10,6 +10,8 @@ const MyExpertise = () => {
             .then(({ data }) => data)
             .catch(error => console.error('Error fetching testimonials:', error)))
 
+    console.log(data);
+
     return (
         <>
             <div className="px-2 md:px-8 py-4 text-lg font-bold text-Snow">My Expertise</div>

@@ -29,7 +29,6 @@ const Banner = () => {
                                         </span> {"</"}<span className="text-Green sm:text-base xl:text-lg font-bold">div</span>{">"} </span>
                                 </div>
                             </div>
-                            <Link to='intro' spy={true} smooth={true} duration={500} offset={-50} className="button">Explore</Link>
                         </div>
                         <div className="w-48 h-52 relative hidden md:block">
                             <img className='absolute top-8 w-full h-full' src="images/emoji.png" alt="emoji" />
@@ -46,18 +45,13 @@ const Banner = () => {
                     </div>
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>8+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>2+</span>
                         <span className='text-xs text-Snow'>Freelance Clients</span>
                     </div>
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>5+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>2+</span>
                         <span className='text-xs text-Snow'>Honors & Awards</span>
-                    </div>
-
-                    <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>10+</span>
-                        <span className='text-xs text-Snow'>Opensource Projects</span>
                     </div>
 
                 </div>

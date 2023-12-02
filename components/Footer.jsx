@@ -1,6 +1,5 @@
 import { AiFillCopyrightCircle } from 'react-icons/ai'
 import { MdMail } from 'react-icons/md'
-import { AiOutlineWhatsApp } from 'react-icons/ai'
 
 const Footer = () => {
     return (
@@ -13,13 +12,13 @@ const Footer = () => {
                     <span>2023 All Rights Reserved.</span>
                 </div>
                 <div className="flex items-center">
-                    <a href='https://www.fiverr.com/codeworthy' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Osama</span></a>
+                    <a href='https://www.fiverr.com/codeworthy' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Muneeb</span></a>
                 </div>
                 <div className="hidden md:flex items-center">
                     <div className="mr-1 text-base">
                         <MdMail />
                     </div>
-                    <div>iosamajavaid@gmail.com</div>
+                    <div>muneebswati00@gmail.com</div>
                 </div>
             </div>
         </div>
