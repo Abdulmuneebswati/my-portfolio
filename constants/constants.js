@@ -40,6 +40,8 @@ export const TECH_STACK = [
   'Material UI',
   'Next UI',
   'REST API',
+  "AWS",
+  "Stripe",
   'MongoDB',
   'MySQL',
   'Firebase',
