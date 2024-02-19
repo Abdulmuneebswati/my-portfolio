@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/osamajavaid/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/osamajavaid/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/osamajavaid/portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/iosamajavaid?style=social)](https://twitter.com/intent/follow?screen_name=iosamajavaid)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Muneebjavaid/portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/Muneebjavaid/portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Muneebjavaid/portfolio?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/iMuneebjavaid?style=social)](https://twitter.com/intent/follow?screen_name=iMuneebjavaid)
 
   <br />
   <br />
@@ -22,13 +22,13 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 ### Demo Screeshots
 
-![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
+![Muneeb Portfolio Desktop Demo](./public/readme-images/portfolio.png 'Desktop Demo')
 
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [Git](https://git-scm.com/downloads 'Download Git') must be installed on your operating system.
 
 ### Run Locally
 
@@ -37,18 +37,18 @@ To run **portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/osamajavaid/portfolio.git
+sudo git clone https://github.com/Muneebjavaid/portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/osamajavaid/portfolio.git
+git clone https://github.com/Muneebjavaid/portfolio.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [X](https://www.x.com/iosamajavaid).
+If you want to contact with me you can reach me at [X](https://www.x.com/iMuneebjavaid).
 
 ### License
 
