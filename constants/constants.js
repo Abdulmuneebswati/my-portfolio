@@ -25,11 +25,13 @@ export const SKILLS = [
 ];
 
 export const TECH_STACK = [
-  'ReactJS',
   'JavaScript',
+  'ReactJS',
   'NextJS',
   'TypeScript',
   'NodeJS',
+  "ExpressJS",
+  "NestJS",
   'Redux',
   'Zustand',
   'CSS',
@@ -44,6 +46,7 @@ export const TECH_STACK = [
   "Stripe",
   'MongoDB',
   'MySQL',
+  'Firebase',
   'Firebase',
   'Git',
   'GitHub',
